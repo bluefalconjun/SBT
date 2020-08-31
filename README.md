@@ -3,6 +3,7 @@
 ---
 Embeded System Auto Test
 
+![arch](https://github.com/bluefalconjun/ESAT/blob/master/docs/esat.pdf)
 
 ---
 From different chip vendor delevopment, ESAT is helpful for code quality/ci intergration. But most vendor has its own AT system.
